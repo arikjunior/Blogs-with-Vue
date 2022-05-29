@@ -1,4 +1,6 @@
 # my-project
+Simple Blog 
+Belajar Data Binding, Scoped, API with Axios (http://jsonplaceholder.typicode.com/posts), Filter, Routing
 
 ## Project setup
 ```
